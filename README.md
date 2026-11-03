@@ -1,4 +1,6 @@
-## Hi there 👋
+
+[![Merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3AJstarzz&label=Merged%20PRs&color=2ea44f&style=for-the-badge)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJstarzz)
+
 
 <!--
 **Jstarzz/Jstarzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
