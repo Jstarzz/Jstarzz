@@ -1,5 +1,10 @@
 
-[![Merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3AJstarzz&label=Merged%20PRs&color=2ea44f&style=for-the-badge)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJstarzz)
+## Pull request activity
+
+<!-- PR_STATS_START -->
+![Merged PRs authored](https://img.shields.io/badge/Merged%20PRs%20Authored-pending-777?style=for-the-badge)
+![PRs personally merged](https://img.shields.io/badge/PRs%20Personally%20Merged-pending-777?style=for-the-badge)
+<!-- PR_STATS_END -->
 
 
 <!--
