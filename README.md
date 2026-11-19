@@ -2,8 +2,8 @@
 ## Pull request activity
 
 <!-- PR_STATS_START -->
-![Merged PRs authored](https://img.shields.io/badge/Merged%20PRs%20Authored-935-2ea44f?style=for-the-badge)
-![PRs personally merged](https://img.shields.io/badge/PRs%20Personally%20Merged-1296-0969da?style=for-the-badge)
+![Merged PRs authored](https://img.shields.io/badge/Merged%20PRs%20Authored-997-2ea44f?style=for-the-badge)
+![PRs personally merged](https://img.shields.io/badge/PRs%20Personally%20Merged-1358-0969da?style=for-the-badge)
 <!-- PR_STATS_END -->
 
 
